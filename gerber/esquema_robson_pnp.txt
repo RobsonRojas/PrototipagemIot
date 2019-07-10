@@ -1,0 +1,25 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=esquema_robson
+*Date=14:01:32
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;11.8133;-11.3216;90;Bottom;DHT1
+2;;;64.1096;-33.1933;0;Bottom;Copper Fill2
+3;;;34.6202;-27.9863;0;Bottom;Copper Fill1
+4;;;34.6202;-27.9863;0;Bottom;Copper Fill5
+5;;;33.4518;-9.7491;0;Bottom;Copper Fill4
+6;;THT;62.738;-38.0715;180;Bottom;IR1
+7;;led10mm;8.05583;-41.0113;-91;Bottom;LED2
+8;;;61.3664;-27.4783;0;Bottom;Copper Fill3
+9;;;34.8234;-26.7417;0;Bottom;Componente1
+10;220;THT;31.7771;-38.4295;0;Bottom;R1
